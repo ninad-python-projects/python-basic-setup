@@ -1,5 +1,4 @@
 # python-env-setup:
-- 
 This repository can be refered to see who you should configure the Python projects.
 
 
@@ -15,8 +14,12 @@ please refer to the module project_logging to use it.
 Logs will be appended to the existing log file.
 ***note: if you dont want to use custom logger then remove all imports from main and anywhere you used it.
 
+# Run tests
+1. make sure you have pytest in requirements.txt
+2. install pytest separately with command: pip install pytest
+2. run tests using commnad: pytest -v tests
+
 # Good to know:
-- 
 1. what is "__init__.py" file? 
     : this file under directory will basically conver the folder into package that you can important in any .py file and use it.
 2. 

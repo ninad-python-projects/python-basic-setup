@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Testing
+.coverage
+.tox/
+.nox/
+pytest_cache/
+junit.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Cache
+*.cache
+*.mypy_cache
+*.pytest_cache
+*.hypothesis
+# Pytest cache
+.pytest_cache/
+
+
+# Config
+*.ini
+*.cfg
+*.yaml
+*.toml
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+.DS_Store
+Thumbs.db

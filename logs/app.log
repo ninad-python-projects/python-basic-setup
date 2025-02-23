@@ -1,14 +1,1 @@
-2025-02-23 17:17:52,807 - appLogger - INFO - main.py:14 - Application started.
-2025-02-23 17:17:52,807 - appLogger - WARNING - main.py:15 - This is a warning from main.
-2025-02-23 17:17:52,807 - appLogger - ERROR - main.py:16 - This is an error from main.
-2025-02-23 17:17:52,807 - appLogger - CRITICAL - main.py:17 - This is a critical message from main.
-2025-02-23 17:17:52,807 - appLogger - INFO - module1.py:8 - This is an info message from module1.
-2025-02-23 17:17:52,807 - appLogger - WARNING - module1.py:9 - This is a warning from module1.
-2025-02-23 17:17:52,807 - appLogger - ERROR - module1.py:10 - This is an error from module1.
-2025-02-23 17:17:52,807 - appLogger - CRITICAL - module1.py:11 - This is a critical message from module1.
-2025-02-23 17:17:52,807 - appLogger - INFO - main.py:22 - Application finished.
-2025-02-23 17:22:37,041 - appLogger - INFO - main.py:13 - Application started.
-2025-02-23 17:22:37,041 - appLogger - WARNING - main.py:14 - This is a warning from main.
-2025-02-23 17:22:37,042 - appLogger - ERROR - main.py:15 - This is an error from main.
-2025-02-23 17:22:37,042 - appLogger - CRITICAL - main.py:16 - This is a critical message from main.
-2025-02-23 17:22:37,042 - appLogger - INFO - main.py:17 - Application finished.
+2025-02-23 18:03:06,529 - appLogger - INFO - test_logger.py:32 - Test message
