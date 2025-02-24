@@ -2,6 +2,14 @@
 This repository can be refered to see who you should configure the Python projects.
 
 
+# pre-requisites
+1. python: make sure you have python installed on your machine.
+2. git: make sure you have git installed on local machine.
+3. github account: please create github account before you start https://github.com/
+   if you are working in Company/ORG then your git account must be created under git already, do not create account on public github website.
+4. if you are using MAC then use brew for installing: python and git 
+
+
 # Create project structure by running py file
 1. go to project directory after cloing on local machine.
 2. run command: python project_structure.py.
