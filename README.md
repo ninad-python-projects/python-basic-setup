@@ -1,6 +1,3 @@
-# python-env-setup:
-This repository can be refered to see who you should configure the Python projects.
-
 
 # pre-requisites
 1. python: make sure you have python installed on your machine.
